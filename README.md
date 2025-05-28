@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Ancarsenat
+## 👋 Hi there, I'm Ancarsenat <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg" alt="French Flag" width="30" />
 
 [![AnCarsenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnCarsenat&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,6 +39,14 @@
 - ⚡ I enjoy reverse engineering games and tweaking systems
 - 🧩 Puzzle lover and problem solver
 - 🖥️ Passionate about tech, tinkering, and automation
+
+---
+
+### 😐 Langauges
+- French (Native)
+- Lithuanian (Native)
+- English (Bilingual)
+- Spanish (Beginner)
 
 ---
 
