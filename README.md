@@ -12,7 +12,7 @@
 
 ### 📚 Currently Learning
 - 🤖 Artificial Intelligence & Machine Learning
-- 🛠️ Advanced development workflows
+- 🛠️ Java and C languages
 
 ### 🤝 Collaboration
 - 💡 Open to teaming up on creative and technical projects
@@ -21,7 +21,6 @@
 ---
 
 ### 📜 Certifications
-<!-- Add your certifications here -->
 - [ ] French "Brevet des collèges"
 - [ ] French "PIX"
 - [ ] *And more coming!*
