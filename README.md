@@ -22,9 +22,9 @@
 
 ### 📜 Certifications
 <!-- Add your certifications here -->
-- [ ] Example: Linux Foundation Certified System Administrator (LFCS)
-- [ ] Example: Google IT Support Certificate
-- [ ] *(Add more as you earn them!)*
+- [ ] French "Brevet des collèges"
+- [ ] French "PIX"
+- [ ] *And more coming!*
 
 ---
 
