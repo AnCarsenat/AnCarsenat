@@ -1,8 +1,9 @@
 ## 👋 Hi there, I'm Ancarsenat
 
 [![AnCarsenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnCarsenat&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Repo pinned](https://github-readme-stats.vercel.app/api/pin/?username=AnCarsenat&repo=RedstoneAdditions&theme=dracula&show_icons=true)](https://github.com/AnCar/RedstoneAdditions)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&hide_progress=true)
+[![Repo pinned](https://github-readme-stats.vercel.app/api/pin/?username=AnCarsenat&repo=RedstoneAdditions&theme=dracula&show_icons=true)](https://github.com/AnCar/RedstoneAdditions)  
 ---
 
 ### 🚀 What I'm Working On
