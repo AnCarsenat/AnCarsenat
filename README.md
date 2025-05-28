@@ -2,7 +2,7 @@
 
 [![AnCarsenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnCarsenat&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnCarsenat&theme=dracula&hide_progress=false)
 [![Repo pinned](https://github-readme-stats.vercel.app/api/pin/?username=AnCarsenat&repo=RedstoneAdditions&theme=dracula&show_icons=true)](https://github.com/AnCar/RedstoneAdditions)  
 ---
 
