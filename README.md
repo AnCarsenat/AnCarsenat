@@ -47,6 +47,7 @@
 - English (Bilingual)
 - Spanish (Beginner)
 
+PS: I use AI when making certain projects.
 ---
 
 <p align="center">
