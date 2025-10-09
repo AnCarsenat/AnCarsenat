@@ -21,9 +21,9 @@
 ---
 
 ### 📜 Certifications
-- [ ] French "Brevet des collèges"
-- [ ] French "PIX"
-- [ ] *And more coming!*
+- [x] French "Brevet des collèges"
+- [x] French "PIX"
+- [x] *And more coming!*
 
 ---
 
