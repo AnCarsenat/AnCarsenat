@@ -1,56 +1,61 @@
-## 👋 Hi there, I'm Ancarsenat <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg" alt="French Flag" width="30" />
+## 👋 Hi there, I'm Ancarsenat <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg" alt="French Flag" width="30" />    <img src="https://komarev.com/ghpvc/?username=AnCarsenat&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 
 [![AnCarsenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnCarsenat&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnCarsenat&theme=dracula&hide_progress=false)
-[![Repo pinned](https://github-readme-stats.vercel.app/api/pin/?username=AnCarsenat&repo=RedstoneAdditions&theme=dracula&show_icons=true)](https://github.com/AnCar/RedstoneAdditions)  
+
 ---
 
 ### 🚀 What I'm Working On
-- 🔧 **Minecraft Modding** — Custom gameplay mechanics and enhancements.
-- 🐧 **Linux Management** — System automation, optimization, and scripting.
+- 🔧 **Minecraft Modding** — Custom gameplay mechanics and enhancements
+- 🐧 **Linux Management** — System automation, optimization, and scripting
+- 🛠️ **Tools & Technologies** — I make tools to go faster.
 
 ### 📚 Currently Learning
 - 🤖 Artificial Intelligence & Machine Learning
-- 🛠️ Java and C languages
+- 🛠️ Java and C programming
 
-### 🤝 Collaboration
-- 💡 Open to teaming up on creative and technical projects
-- 🙋‍♂️ Always up for learning and contributing to open source
+### 🤝 Open to Collaborate
+- 💡 Creative and technical projects
+- 🌟 Open source contributions
 
 ---
 
 ### 📜 Certifications
-- [x] French "Brevet des collèges"
-- [x] French "PIX"
-- [x] *And more coming!*
+- ✅ French "Brevet des collèges"
+- ✅ French "PIX"
+- ✅ French "SNU" (Service National Universel)
+- ✅ Internships at Airbus & Usine du Carré de la Réunion
+- 🏆 1st place in school for Big Challenge (5th grade)
 
 ---
 
-### 📬 Contact Me
-- 💬 **Discord**: TrotroGros#4168
-- 📧 **Email**: antoine.carsenat@gmail.com
-- 📱 **Phone**: (Add if you wish or leave it as is)
+### 📬 Get in Touch
+- 💬 **Discord**: TrotroGros
+- 📧 **Email**: 
+    - antoine.carsenat@gmail.com (Personal)
+    - carsenat.antoine@gmail.com (School)
+---
+
+### 🌍 Languages
+- 🇫🇷 French (Native)
+- 🇱🇹 Lithuanian (Native)
+- 🇬🇧 English (Bilingual)
+- 🇪🇸 Spanish (Beginner)
+
+*Currently learning :*
+- 🇷🇺 Russian (Beginner)
+- 🇨🇳 Chinese (Beginner)
+- 🇯🇵 Japanese (Beginner)
+
 
 ---
 
-### 😄 Fun & Facts
-- ⚡ I enjoy reverse engineering games and tweaking systems
-- 🧩 Puzzle lover and problem solver
-- 🖥️ Passionate about tech, tinkering, and automation
+### ⚡ Facts
+- 🎮 I like videogames like minecraft
+- 🧩 Puzzle enthusiast and problem solver
+- 🤖 AI-assisted development advocate
 
 ---
 
-### 😐 Langauges
-- French (Native)
-- Lithuanian (Native)
-- English (Bilingual)
-- Spanish (Beginner)
-
-PS: I use AI when making certain projects.
----
-
-<p align="center">
-  👀 Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/AnCarsenat/count.svg" />
-</p>
