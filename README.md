@@ -1,61 +1,18 @@
-## 👋 Hi there, I'm Ancarsenat <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg" alt="French Flag" width="30" />    <img src="https://komarev.com/ghpvc/?username=AnCarsenat&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
+<div align="center">
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ancarsenat&fontSize=90&desc=Discord%20:%20TrotroGros&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-[![AnCarsenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnCarsenat&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+**🔧 Minecraft Modder • 🐧 Linux Enthusiast • 🤖 AI Explorer**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnCarsenat&theme=dracula&hide_progress=false)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
 
----
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-### 🚀 What I'm Working On
-- 🔧 **Minecraft Modding** — Custom gameplay mechanics and enhancements
-- 🐧 **Linux Management** — System automation, optimization, and scripting
-- 🛠️ **Tools & Technologies** — I make tools to go faster.
+![Stats](https://github-readme-stats.vercel.app/api?username=ancarsenat&theme=dracula&show_icons=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ancarsenat&theme=dracula&layout=compact)
 
-### 📚 Currently Learning
-- 🤖 Artificial Intelligence & Machine Learning
-- 🛠️ Java and C programming
+🇫🇷 🇱🇹 🇬🇧 • 📧 antoine.carsenat@gmail.com
 
-### 🤝 Open to Collaborate
-- 💡 Creative and technical projects
-- 🌟 Open source contributions
-
----
-
-### 📜 Certifications
-- ✅ French "Brevet des collèges"
-- ✅ French "PIX"
-- ✅ French "SNU" (Service National Universel)
-- ✅ Internships at Airbus & Usine du Carré de la Réunion
-- 🏆 1st place in school for Big Challenge (5th grade)
-
----
-
-### 📬 Get in Touch
-- 💬 **Discord**: TrotroGros
-- 📧 **Email**: 
-    - antoine.carsenat@gmail.com (Personal)
-    - carsenat.antoine@gmail.com (School)
----
-
-### 🌍 Languages
-- 🇫🇷 French (Native)
-- 🇱🇹 Lithuanian (Native)
-- 🇬🇧 English (Bilingual)
-- 🇪🇸 Spanish (Beginner)
-
-*Currently learning :*
-- 🇷🇺 Russian (Beginner)
-- 🇨🇳 Chinese (Beginner)
-- 🇯🇵 Japanese (Beginner)
-
-
----
-
-### ⚡ Facts
-- 🎮 I like videogames like minecraft
-- 🧩 Puzzle enthusiast and problem solver
-- 🤖 AI-assisted development advocate
-
----
-
+</div>
